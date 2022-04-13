@@ -108,6 +108,26 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Iggy",
+      "species": "Iguana",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Piper",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
