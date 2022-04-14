@@ -44,7 +44,6 @@ const getAnimals = (formData = {}) => {
     });
 };
 
-
 const handleGetAnimalsSubmit = event => {
   event.preventDefault();
   const dietRadioHTML = $animalForm.querySelectorAll('[name="diet"]');
